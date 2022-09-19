@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    border: 0;  
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.card img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.prices {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 40%;
+}
+
+.democard {
+    font-size: 14px;
+}
+
+footer img {
+    width: 20%;
+}
+
+footer div {
+    display: inline-block
+}
+
+footer {
+    text-align: center;
+}
